@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# streamlit_app.py
 import streamlit as st
 import numpy as np
 import tensorflow as tf
