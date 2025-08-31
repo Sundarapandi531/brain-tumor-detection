@@ -2,7 +2,7 @@
 
 This project focuses on classifying MRI brain scans into four categories:
 
-Glioma Tumor
+`Glioma Tumor`
 Meningioma Tumor
 Pituitary Tumor
 No Tumor (Normal)
