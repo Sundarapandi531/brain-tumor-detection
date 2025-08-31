@@ -14,6 +14,14 @@ We utilize the **ResNet101 deep learning model** to achieve high accuracy in det
 ## 📂 Dataset
 
 - The dataset contains MRI images of size **512x512**, which are **resized to 256x256** before training.
+
+- Kaggle Dataset Link:
+  
+```
+https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
+
+```
+
 - Dataset structure:
 
 ```
