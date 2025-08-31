@@ -16,6 +16,7 @@ We utilize the **ResNet101 deep learning model** to achieve high accuracy in det
 - The dataset contains MRI images of size **512x512**, which are **resized to 256x256** before training.
 - Dataset structure:
 
+```
 dataset/
 │── Training/
 │ ├── glioma/
@@ -28,7 +29,7 @@ dataset/
 ├── meningioma/
 ├── pituitary/
 └── normal/  
-
+```
 
 ---
 
