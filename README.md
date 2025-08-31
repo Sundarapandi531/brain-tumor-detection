@@ -6,8 +6,8 @@ This project focuses on classifying MRI brain scans into four categories:
 - **Meningioma Tumor**
 - **Pituitary Tumor**
 - **No Tumor (Normal)**
-
-We utilize the **ResNet101 deep learning model** to achieve high accuracy in detecting and classifying brain tumors from MRI images.
+  
+I utilize the **ResNet101 deep learning model** to achieve high accuracy in detecting and classifying brain tumors from MRI images.
 
 ---
 
