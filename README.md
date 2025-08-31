@@ -18,7 +18,7 @@ I utilize the **ResNet101 deep learning model** to achieve high accuracy in dete
 - Kaggle Dataset Link:
   
 ```
-https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
+https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 
 ```
 
